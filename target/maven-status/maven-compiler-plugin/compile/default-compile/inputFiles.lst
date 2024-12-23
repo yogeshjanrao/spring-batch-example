@@ -1,0 +1,6 @@
+/home/bunny/Desktop/Spring batch/spring-batch-example/src/main/java/com/yogeshjanrao/spring/batch/config/SpringBatchConfig.java
+/home/bunny/Desktop/Spring batch/spring-batch-example/src/main/java/com/yogeshjanrao/spring/batch/entity/Customer.java
+/home/bunny/Desktop/Spring batch/spring-batch-example/src/main/java/com/yogeshjanrao/spring/batch/config/CustomerProcessor.java
+/home/bunny/Desktop/Spring batch/spring-batch-example/src/main/java/com/yogeshjanrao/spring/batch/BatchProcessingDemoApplication.java
+/home/bunny/Desktop/Spring batch/spring-batch-example/src/main/java/com/yogeshjanrao/spring/batch/controller/JobController.java
+/home/bunny/Desktop/Spring batch/spring-batch-example/src/main/java/com/yogeshjanrao/spring/batch/repository/CustomerRepository.java

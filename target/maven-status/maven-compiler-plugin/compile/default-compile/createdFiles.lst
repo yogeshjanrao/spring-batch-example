@@ -1,0 +1,6 @@
+com/yogeshjanrao/spring/batch/config/CustomerProcessor.class
+com/yogeshjanrao/spring/batch/BatchProcessingDemoApplication.class
+com/yogeshjanrao/spring/batch/controller/JobController.class
+com/yogeshjanrao/spring/batch/entity/Customer.class
+com/yogeshjanrao/spring/batch/config/SpringBatchConfig.class
+com/yogeshjanrao/spring/batch/repository/CustomerRepository.class
